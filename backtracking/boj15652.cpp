@@ -7,7 +7,6 @@ using namespace std;
 
 int n, m;
 int arr[10];
-bool used[10];
 
 void func(int k) {
     if (k == m) { //base Condition
